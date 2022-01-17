@@ -5,7 +5,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.24</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>ldap</artifactId>
@@ -71,7 +71,7 @@
     <dependency>
       <groupId>net.time4j</groupId>
       <artifactId>time4j-base</artifactId>
-      <version>5.8</version>
+      <version>5.9</version>
     </dependency>
     <dependency>
       <groupId>net.time4j</groupId>
